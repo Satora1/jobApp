@@ -2,7 +2,7 @@ import React from 'react'
 
 const home = () => {
   return (
-    <h1>Job Pilot</h1>
+    <h2>Welcome to the Job Pilot</h2>
   )
 }
 
